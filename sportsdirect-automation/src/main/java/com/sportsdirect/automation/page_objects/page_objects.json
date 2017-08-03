@@ -1,0 +1,35 @@
+{
+    "home_page": {
+        "login_element": "dnn_dnnLOGIN_loginLink",
+        "men_category": "li.root:nth-child(1) > a:nth-child(1)",
+        "men_shoes_category": ".MensCenter > ul:nth-child(1) > li:nth-child(2) > ul:nth-child(1) > li:nth-child(4) > a:nth-child(1)"
+        "account": "topLinkMenu",
+        "log_out": ".SignOut > a:nth-child(1)",
+        "pop_up": "#advertPopup > div > div > div.modal-header > button"
+    },
+    "men_shoes_page": {
+        "firetrap_brand_filter_checkbox": "div.ABRA:nth-child(2) > a:nth-child(1) > span:nth-child(1)",
+        "skechers_brand_filter_checkbox": "div.ABRA:nth-child(3) > a:nth-child(1) > span:nth-child(1)",
+        "price_range_filter_min": "PriceFilterTextEntryMin",
+        "price_range_filter_max": "PriceFilterTextEntryMax",
+        "filter_apply_button": "PriceFilterTextEntryApply",
+        "shoes": "//*[@id=\"navlist\"]/li[1]/div/div[2]/div[1]/div[1]/a/span[1]"
+    },
+    "login_page": {
+        "forgotten_password_link": "dnn_ctr38450952_LoginScreen_registerLogin_cmdForgottenPassword"
+    },
+    "password_recovery_page": {
+        "email_address_input_label": "dnn_ctr38451115_PasswordReset_UserName",
+        "send_email_button": "dnn_ctr38451115_PasswordReset_cmdSendPassword"
+    },
+    "new_password_page": {
+        "email_address": "dnn_ctr38451115_PasswordReset_txtEmailAddress",
+        "enter_new_password": "dnn_ctr38451115_PasswordReset_txtNewPassword",
+        "confirm_new_password": "dnn_ctr38451115_PasswordReset_txtConfirmNewPassword",
+        "change_password_button": "dnn_ctr38451115_PasswordReset_lnkbtnChangePassword"
+    },
+    "password_change_confirmation_page": {
+        "password_reset_success": "dnn_ctr38451115_PasswordReset_SuccessText",
+        "continue_button": "dnn_ctr38451115_PasswordReset_lnkbtnContinue"
+    }
+}
