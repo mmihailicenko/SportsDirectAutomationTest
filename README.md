@@ -5,8 +5,8 @@ Made for 4finance test assignment
 Frameworks used:
 Selenium and Cucumber
 
-Firefox browser will open only using GeckoDriver.
-For correct run please change GECKO_DRIVER_PATH in CommonSteps class to location of your geckodriver.exe
+Firefox browser will open only using geckodriver.
+For correct run please change GECKO_DRIVER_PATH in CommonSteps class to location of your geckodriver.exe (https://github.com/mozilla/geckodriver/releases)
 
 In order to run please deliberately "run" SportsDirectTest class
 
